@@ -1,4 +1,4 @@
-[Click here and press view raw to download and view a 2:50 seconds simulation video explaining the whole process.](A%20video.mp4) 
+[Click here and press view raw to download and view a 170 seconds simulation video explaining the whole process.](A%20video.mp4) 
 
 # Parameter-Estimation-For-Model-based-control-UR3-robot-arm
 
