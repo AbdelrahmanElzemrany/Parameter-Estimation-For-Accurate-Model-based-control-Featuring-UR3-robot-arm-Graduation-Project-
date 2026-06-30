@@ -1,6 +1,7 @@
 [Click here and press view raw to download and view a 2:50 seconds simulation video explaining the whole process.](A%20video.mp4) 
 
-# Estimated Model-Based Gravity-Compensation Controller for UR3 Robot Arm
+# Parameter-Estimation-For-Model-based-control-UR3-robot-arm
+
 
 
 An end-to-end parameter estimation framework and model-based gravity compensation controller for the 6-DOF UR3 robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
