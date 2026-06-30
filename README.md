@@ -1,7 +1,5 @@
 <div align="center">
-  <h3>UR3 Model-Based Gravity Compensation Validation</h3>
-  <video src="A video.mp4" width="100%" autoplay loop muted></video>
-  <p><i>Left: 3D mechanical simulation showing perfect balance. Right: Real-time control tracking scopes.</i></p>
+  <video src="https://githubusercontent.com" width="100%" autoplay loop muted controls></video>
 </div>
 
 # Estimated Model-Based Gravity Controller for UR3 Arm
