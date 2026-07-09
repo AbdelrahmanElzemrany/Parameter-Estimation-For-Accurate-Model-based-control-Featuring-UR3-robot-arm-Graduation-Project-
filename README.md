@@ -40,6 +40,9 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
 
   <img width="746" height="422" alt="UR3G_Matrix_testing_step7" src="https://github.com/user-attachments/assets/5732ad18-c48c-4a11-a77b-4fb4cfc96f9f" />
 
+  <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/62b26d70-8496-4e95-bde9-818bcbabd181" />
+
+
 
 
   
