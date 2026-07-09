@@ -42,6 +42,9 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
 
   <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/62b26d70-8496-4e95-bde9-818bcbabd181" />
 
+  <img width="746" height="422" alt="PDatzero" src="https://github.com/user-attachments/assets/3828b2f1-47f0-4cd3-9538-4174feca8dee" />
+
+
 
 
 
