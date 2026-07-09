@@ -29,6 +29,11 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
   Figure 4 A visualzation of how we excite the inertial parameters of the UR3 robot arm
 
+  <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/68ea9611-1a74-43c0-9e01-e9d76e3ce1a7" />
+
+   Figure 5 The Parameter estimation validation results 
+
+
 
 
 
