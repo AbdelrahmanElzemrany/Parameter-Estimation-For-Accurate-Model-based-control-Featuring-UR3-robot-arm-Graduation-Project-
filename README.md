@@ -27,25 +27,30 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   Figure 3 A link configuration with Viscous-Columb friction forces applied .
   <img width="746" height="422" alt="UR3Excitation_step2" src="https://github.com/user-attachments/assets/30a4910a-c255-41be-b362-d4a4c86f52d1" />
   
-  Figure 4 A visualzation of how we excite the inertial parameters of the UR3 robot arm
+  Figure 4 A visualzation of how we excite the inertial parameters of the UR3 robot arm.
 
   <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/68ea9611-1a74-43c0-9e01-e9d76e3ce1a7" />
 
-   Figure 5 The Parameter estimation validation results
+   Figure 5 The Parameter estimation validation results.
 
 
   <img width="1025" height="563" alt="image" src="https://github.com/user-attachments/assets/5f464711-4b4b-4b1c-b4de-283ce57d0c8e" />
+  
+  Figure 6 Testing the estimated gravity matrix at zero joint position .
 
-<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/7260d6fc-3db2-4899-a9dd-a4e2f72c6df5" />
+   <img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/7260d6fc-3db2-4899-a9dd-a4e2f72c6df5" />
+   Figure 7 The proactive applied torques from the estimated gravity matrix to cancel the gravity forces (see the shoulder joints (2 and 3) ).
 
 
 
   <img width="746" height="422" alt="UR3G_Matrix_testing_step7" src="https://github.com/user-attachments/assets/5732ad18-c48c-4a11-a77b-4fb4cfc96f9f" />
+  Figure 8 A Visualization to show that the robot arm stand still at zero joint positon commands.
 
   <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/62b26d70-8496-4e95-bde9-818bcbabd181" />
+  Figure 9 The reactive applied torques from PD controller.
 
   <img width="746" height="422" alt="PDatzero" src="https://github.com/user-attachments/assets/3828b2f1-47f0-4cd3-9538-4174feca8dee" />
-
+  Figure 10 A Visualzation of the robot arm behavior with standard standalone PD controller 
 
 
 
