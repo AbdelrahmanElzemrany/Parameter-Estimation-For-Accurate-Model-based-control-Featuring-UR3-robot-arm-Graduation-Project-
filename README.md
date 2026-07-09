@@ -31,7 +31,20 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
 
   <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/68ea9611-1a74-43c0-9e01-e9d76e3ce1a7" />
 
-   Figure 5 The Parameter estimation validation results 
+   Figure 5 The Parameter estimation validation results
+
+
+  <img width="1025" height="563" alt="image" src="https://github.com/user-attachments/assets/5f464711-4b4b-4b1c-b4de-283ce57d0c8e" />
+
+  <img width="1917" height="923" alt="image" src="https://github.com/user-attachments/assets/525ea686-0d3f-435d-81ec-baf760e05ae9" />
+
+  <img width="746" height="422" alt="UR3G_Matrix_testing_step7" src="https://github.com/user-attachments/assets/5732ad18-c48c-4a11-a77b-4fb4cfc96f9f" />
+
+
+
+  
+
+
 
 
 
