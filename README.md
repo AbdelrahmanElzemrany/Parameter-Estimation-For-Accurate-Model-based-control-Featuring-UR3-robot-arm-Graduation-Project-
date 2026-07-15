@@ -107,6 +107,9 @@ Figure 13 the joint position error graph in standalone PD controller configurati
 
 --------------------------------------------------------------
 
+<img width="1907" height="930" alt="Screenshot 2026-07-16 004330" src="https://github.com/user-attachments/assets/b994083b-5a01-4ec9-ba5c-af86de00d849" />
+
+Figure 14 the joint position error in Feedforward gravity compensation controller configuration with the same PD  gains
 
 
 ## 🛠️ Pipeline & File Architecture
