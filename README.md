@@ -96,7 +96,7 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
 <img width="1907" height="913" alt="Screenshot 2026-07-15 225818" src="https://github.com/user-attachments/assets/3fbbd037-7e31-4a29-99e3-714aa2758404" />
 
   
-Figure 12 The small correction of the PD controller to handle the slight in accuracies of the estimation proccess
+Figure 12 The small correction of the PD controller to handle the slight inaccuracies of the estimation proccess
 
 
 -------------------------------------------------------------
