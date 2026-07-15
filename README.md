@@ -101,8 +101,11 @@ Figure 12 The small correction of the PD controller to handle the slight inaccur
 
 -------------------------------------------------------------
 
+<img width="1906" height="928" alt="Screenshot 2026-07-16 004041" src="https://github.com/user-attachments/assets/b9732969-b5bf-4ad5-88be-28ade17df03d" />
 
+Figure 13 the joint position error graph in standalone PD controller configuration
 
+--------------------------------------------------------------
 
 
 
