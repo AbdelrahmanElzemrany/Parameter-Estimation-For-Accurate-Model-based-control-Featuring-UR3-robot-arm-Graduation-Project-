@@ -46,7 +46,8 @@ Model-based control strategy (like Computed Torque Control) resolves this proble
   
   ---------------------------------------------------------------
 
- <img width="1904" height="1012" alt="Screenshot 2026-07-15 192612" src="https://github.com/user-attachments/assets/dd929a74-ce4b-4af4-9a72-84bf306d21ca" />
+<img width="1907" height="917" alt="Screenshot 2026-07-15 192710" src="https://github.com/user-attachments/assets/6a811e29-c38c-40de-a4ce-48f86c15605a" />
+
 
   
    Figure 5 The Parameter estimation validation results.
